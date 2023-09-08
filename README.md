@@ -4,8 +4,8 @@
 This repository contains a customer performance report for sales analytics.
 
 ## Customer Performance Report
+[Customer Performance Report.pdf](./Customer%20Performance%20Report.pdf)
 
-The [Customer Performance Report.pdf](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf) provides insights into customer performance based on sales data. It includes key metrics, analysis, and recommendations.
 
 ## Usage
 
