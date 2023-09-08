@@ -1,7 +1,7 @@
 ## Sales Report:
 
 **Project Objective:** 
-- Create a [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+- Create a [Customer Performance Report](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf).
 - Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
 
 **Purpose of Sales Analytics:** 
