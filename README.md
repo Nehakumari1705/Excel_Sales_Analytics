@@ -5,6 +5,7 @@ This repository contains a customer performance report for sales analytics.
 
 ## Customer Performance Report
 [Customer Performance Report.pdf](./Customer%20Performance%20Report.pdf)
+[Customer Performance Report.pdf](./Customer%20Performance%20Report.pdf)
 
 
 ## Usage
