@@ -2,7 +2,7 @@
 
 **Project Objective:** 
 - Create a [Customer Performance Report](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf).
-- Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+- Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 **Purpose of Sales Analytics:** 
 - Empower businesses to monitor and evaluate their sales activities and performance.
@@ -18,8 +18,8 @@
  ## Finance Report:
 
 **Project Objective:** 
-- Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
-- Create Profit and Loss (P&L) reports by [Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+- Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+- Create Profit and Loss (P&L) reports by [Markets](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 **Purpose of Finance Analytics:** 
 - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
