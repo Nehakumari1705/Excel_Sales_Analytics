@@ -1,11 +1,15 @@
-# Excel_Sales_Analytics
 
-## Sales Report :
+# Excel Sales Analytics
 
+This repository contains a customer performance report for sales analytics.
 
-- **Project objective:** 
+## Customer Performance Report
 
-    **1.** Create a _[customer performance report](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf))_ 
+The [Customer Performance Report.pdf](https://github.com/Nehakumari1705/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf) provides insights into customer performance based on sales data. It includes key metrics, analysis, and recommendations.
+
+## Usage
+
+To access the Customer Performance Report, simply click on the link provided above.
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
