@@ -1,41 +1,38 @@
+## Sales Report:
 
-# Excel Sales Analytics
+**Project Objective:** 
+- Create a [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+- Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
 
-This repository contains a customer performance report for sales analytics.
+**Purpose of Sales Analytics:** 
+- Empower businesses to monitor and evaluate their sales activities and performance.
 
-## Customer Performance Report
-[Customer Performance Report.pdf](./Customer%20Performance%20Report.pdf)
+**Importance of Analyzing Sales Data:** 
+- Identify sales patterns and track key performance indicators (KPIs).
 
+**Role of Reports:** 
+- Determine effective customer discounts.
+- Facilitate negotiations with consumers.
+- Identify potential business expansion opportunities in promising countries.
 
-## Usage
+ ## Finance Report:
 
-To access the Customer Performance Report, simply click on the link provided above.
+**Project Objective:** 
+- Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).
+- Create Profit and Loss (P&L) reports by [Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+**Purpose of Finance Analytics:** 
+- Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+**Importance of Analyzing Finance Data:** 
+- Aid in benchmarking against industry peers and previous periods.
+- Foundation for budgeting and forecasting.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+**Role of Reports:** 
+- Align financial planning with strategic goals.
+- Instill confidence in the organization's financial outlook.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
-## Technical & Soft Skills:
+ ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
@@ -48,3 +45,4 @@ To access the Customer Performance Report, simply click on the link provided abo
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
